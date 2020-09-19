@@ -5,6 +5,8 @@ www.stackoverflow.com
 www.github.com
 www.momentjs.com
 
+Deployed Site:https://hallkr86.github.io/hw-05-third-party-APIs/
+
 The Repository This repository ("Code - OSS") is where we (Microsoft) develop the Visual Studio Code product. Not only do we work on code and issues here, we also publish our roadmap, monthly iteration plans, and our endgame plans. This source code is available to everyone under the standard MIT license.
 
 Visual Studio Code VS Code in action
