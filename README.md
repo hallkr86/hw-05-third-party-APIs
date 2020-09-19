@@ -1,9 +1,13 @@
+Work Day Scheduler
+
 README.md Visual Studio Code - Open Source ("Code - OSS") Build Status Feature Requests Bugs Gitter
 
 RESOURCES TO CONCEPTS WERE PROVIDED BY CLASSMATES AND THE FOLLOWING WEBSITES:
 www.stackoverflow.com
 www.github.com
 www.momentjs.com
+
+Technologies used: HTML, CSS, JavaScript, JQuery.
 
 Deployed Site:https://hallkr86.github.io/hw-05-third-party-APIs/
 
